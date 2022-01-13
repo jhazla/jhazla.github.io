@@ -17,10 +17,9 @@ In 2022 I will be recruiting **two PhD students** and a **postdoc** in my resear
 ## Workshop in Kigali
 
 Around **July 2022**, I will be organizing a **Discrete Mathematics Workshop** at **AIMS Rwanda in Kigali**.
-The workshop is meant for **AIMS students and alumni**. The participants will be selected
-from the applications submitted.
+The workshop is meant for interested researchers, including **AIMS students and alumni**. The participants will be selected from the applications submitted.
 The participants will be invited
-to present their research (eg, results of their thesis) in short talks and to participate
+to present their research (eg., results of their thesis) in short talks and to participate
 in the scientific program of the workshop. The costs of flights and accommodation can
 be covered thanks to the generous support of DAAD.
 
