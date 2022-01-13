@@ -9,13 +9,28 @@ This is a list of the publications I coauthored, including arxiv links.
 
 <table id="qs_table" border="1">
 <tbody>
+<tr id="NHGK21" class="entry">
+	<td> Ido Nachum, Jan Hązła, Michael Gastpar and Anatoly Khina (2021), <i>"A Johnson-Lindenstrauss Framework for Randomly Initialized CNNs"</i>.
+	<br>[<a href="https://arxiv.org/abs/2111.02155" target="_blank">arxiv</a>]
+	</td>
+</tr>
+<tr id="CHNY21" class="entry">
+	<td> Elisabetta Cornacchia, Jan Hązła, Ido Nachum and Amir Yehudayoff (2021), <i>"Regularization by Misclassification in ReLU Neural Networks"</i>.
+	<br>[<a href="https://arxiv.org/abs/2111.02154" target="_blank">arxiv</a>]
+	</td>
+</tr>
+<tr id="HSS21" class="entry">
+	<td> Jan Hązła, Alex Samorodnitsky and Ori Sberlo (2021), <i>"On codes decoding a constant fraction of errors on the BSC"</i>. Symposium on Theory of Computing (STOC), pp. 1479-1488.
+	<br>[<a href="https://dl.acm.org/doi/pdf/10.1145/3406325.3451015" target="_blank">link</a>]
+	</td>
+</tr>
 <tr id="CH20" class="entry">
 	<td> Elisabetta Cornacchia and Jan Hązła (2020), <i>"Intransitive dice tournament is not quasirandom"</i>.
 	<br>[<a href="https://arxiv.org/abs/2011.10067" target="_blank">arxiv</a>]
 	</td>
 </tr>
 <tr id="AHN20" class="entry">
-	<td> Emmanuel Abbe, Jan Hązła and Ido Nachum (2020), <i>"Almost-Reed-Muller codes achieve constant rates for random errors"</i>.
+	<td> Emmanuel Abbe, Jan Hązła and Ido Nachum (2021), <i>"Almost-Reed-Muller codes achieve constant rates for random errors"</i>. IEEE Transactions on Information Theory, 67(12), pp. 8034-8050.
 	<br>[<a href="https://arxiv.org/abs/2004.09590" target="_blank">arxiv</a>]
 	</td>
 </tr>
