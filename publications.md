@@ -9,6 +9,13 @@ This is a list of the publications I coauthored, including arxiv links.
 
 <table id="qs_table" border="1">
 <tbody>
+<tr id="ACHM21" class="entry">
+    	<td> Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła and Christopher Marquis (2022),
+	<i>"An initial alignment between neural network and target is needed for gradient 
+           descent to learn"</i>.
+	<br>[<a href="https://arxiv.org/abs/2202.12846" target="_blank">arxiv</a>]
+	</td>
+</tr>
 <tr id="NHGK21" class="entry">
 	<td> Ido Nachum, Jan Hązła, Michael Gastpar and Anatoly Khina (2021), <i>"A Johnson-Lindenstrauss Framework for Randomly Initialized CNNs"</i>.
 	<br>[<a href="https://arxiv.org/abs/2111.02155" target="_blank">arxiv</a>]
