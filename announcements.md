@@ -18,6 +18,8 @@ We are looking for motivated candidates of all backgrounds (including **students
 
 > [Call and instructions for the postdoc position.](files/postdoc_call.pdf)
 
+> UPDATE: the instructions in the calls for sending reference letters have been updated.
+
 > If you are not sure, I recommend you read the first sections in this
 [book](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf) to decide if you are motivated to work in this kind of mathematics.
 
