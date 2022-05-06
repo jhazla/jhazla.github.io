@@ -18,13 +18,14 @@ We are looking for motivated candidates of all backgrounds (including **students
 
 > [Call and instructions for the postdoc position.](files/postdoc_call.pdf)
 
-> UPDATE: the PhD and postdoc calls have been updated with additional instructions for application documents (reference letters and university transcripts). Please consult the updated calls.
 
 > If you are not sure, I recommend you read the first sections in this
 [book](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf) to decide if you are motivated to work in this kind of mathematics.
 
 
 ## Workshop in Kigali
+
+> **UPDATE**: The deadline for the workshop only has been extended to May 17, 2022.
 
 On **4-9 July 2022**, we will be organizing a **Discrete Mathematics Workshop** at **AIMS Rwanda in Kigali**. The application deadline is **May 17, 2022**. Applicants for PhD and postdoc are encouraged to apply.
 
