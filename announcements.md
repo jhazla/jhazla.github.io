@@ -26,7 +26,7 @@ We are looking for motivated candidates of all backgrounds (including **students
 
 ## Workshop in Kigali
 
-On **4-9 July 2022**, we will be organizing a **Discrete Mathematics Workshop** at **AIMS Rwanda in Kigali**. The application deadline is **May 15, 2022**. Applicants for PhD and postdoc are encouraged to apply.
+On **4-9 July 2022**, we will be organizing a **Discrete Mathematics Workshop** at **AIMS Rwanda in Kigali**. The application deadline is **May 17, 2022**. Applicants for PhD and postdoc are encouraged to apply.
 
 The workshop is meant for young researchers, including **AIMS students and alumni**. The participants will be selected from the applications submitted.
 The participants will be invited
