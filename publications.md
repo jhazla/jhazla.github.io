@@ -9,6 +9,12 @@ This is a list of the publications I coauthored, including arxiv links.
 
 <table id="qs_table" border="1">
 <tbody>
+<tr id="Haz22" class="entry">
+    	<td> Jan Hązła (2022),
+	<i>"Optimal list decoding from noisy entropy inequality"</i>.
+	<br>[<a href="https://arxiv.org/abs/2212.01443" target="_blank">arxiv</a>]
+	</td>
+</tr>
 <tr id="ACHM21" class="entry">
     	<td> Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła and Christopher Marquis (2022),
 	<i>"An initial alignment between neural network and target is needed for gradient 
