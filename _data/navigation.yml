@@ -1,7 +1,7 @@
 main:
-  - title: "Announcements"
-    url: /announcements/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Contact"
+    url: /contact/
