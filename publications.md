@@ -19,11 +19,13 @@ This is a list of the publications I coauthored, including arxiv links.
     	<td> Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła and Christopher Marquis (2022),
 	<i>"An initial alignment between neural network and target is needed for gradient 
            descent to learn"</i>.
+	International Conference on Machine Learning (ICML), 163, pp. 33-52.
 	<br>[<a href="https://arxiv.org/abs/2202.12846" target="_blank">arxiv</a>]
 	</td>
 </tr>
 <tr id="NHGK21" class="entry">
-	<td> Ido Nachum, Jan Hązła, Michael Gastpar and Anatoly Khina (2021), <i>"A Johnson-Lindenstrauss Framework for Randomly Initialized CNNs"</i>.
+	<td> Ido Nachum, Jan Hązła, Michael Gastpar and Anatoly Khina (2022), <i>"A Johnson-Lindenstrauss Framework for Randomly Initialized CNNs"</i>.
+	International Conference on Learning Representations (ICLR).
 	<br>[<a href="https://arxiv.org/abs/2111.02155" target="_blank">arxiv</a>]
 	</td>
 </tr>
