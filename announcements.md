@@ -1,9 +1,9 @@
 ---
 layout: archive
 classes: wide
-permalink: /contact/
+permalink: /announcements/
 mathjax: true
-title: "Contact"
+title: "Announcements"
 ---
 
 At the moment I am operating a small group in Kigali with some postdocs and PhD students. I am always looking for opportunities for collaboration in areas which are (broadly) related to my research interests.
