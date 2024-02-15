@@ -9,9 +9,27 @@ This is a list of the publications I coauthored, including arxiv links.
 
 <table id="qs_table" border="1">
 <tbody>
+<tr id="ABHH24" class="entry">
+    	<td> Abdou Majeed Alidou, Júlia Baligács, Max Hahn-Klimroth, Jan Hązła, Lukas Hintze and Olga Scheftelowitsch (2024),
+	<i>"Inevitability of polarization in geometric opinion exchange"</i>.
+	<br>[<a href="https://arxiv.org/abs/2402.08446" target="_blank">arxiv</a>]
+	</td>
+</tr>
+<tr id="KH24" class="entry">
+    	<td> Donald Kougang-Yombi and Jan Hązła (2024),
+	<i>"A quantitative version of more capable channel comparison"</i>.
+	<br>[<a href="https://arxiv.org/abs/2401.14214" target="_blank">arxiv</a>]
+	</td>
+</tr>
+<tr id="DH23" class="entry">
+    	<td> Prudence Djagba and Jan Hązła (2023),
+	<i>"Combinatorics of subgroups of Beidleman near-vector spaces"</i>.
+	<br>[<a href="https://arxiv.org/abs/2306.16421" target="_blank">arxiv</a>]
+	</td>
+</tr>
 <tr id="Haz22" class="entry">
-    	<td> Jan Hązła (2022),
-	<i>"Optimal list decoding from noisy entropy inequality"</i>.
+    	<td> Jan Hązła (2023),
+	<i>"Optimal list decoding from noisy entropy inequality"</i>. International Symposium on Information Theory (ISIT), pp. 15-18.
 	<br>[<a href="https://arxiv.org/abs/2212.01443" target="_blank">arxiv</a>]
 	</td>
 </tr>
@@ -50,7 +68,7 @@ This is a list of the publications I coauthored, including arxiv links.
 	</td>
 </tr>
 <tr id="HJMR19" class="entry">
-	<td> Jan Hązła, Yan Jin, Elchanan Mossel and Govind Ramnarayan (2019), <i>"A geometric model of opinion polarization"</i>.
+	<td> Jan Hązła, Yan Jin, Elchanan Mossel and Govind Ramnarayan (2023), <i>"A geometric model of opinion polarization"</i>. Mathematics of Operations Research 49(1), pp. 251-277.
 	<br>[<a href="https://arxiv.org/abs/1910.05274" target="_blank">arxiv</a>]
 	</td>
 </tr>
