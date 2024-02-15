@@ -12,7 +12,7 @@ My group also benefits from the cooperative project "Probability, Computing and 
 The project is supported by [DAAD](https://www.daad.de/en/).
 
 ## Summer school August 2024
-From August 12 to August 23, 2024, we are organising in Kigali the Summer Schoool A-PIC 24: **Probability, Information, Combinatorics**) (in **Africa**). See the
+From August 12 to August 23, 2024, we are organizing in Kigali the Summer Schoool A-PIC 24: **Probability, Information, Combinatorics**) (in **Africa**). See the
 [website](https://www.uni-frankfurt.de/147012250/A_PIC_24) for the details and instructions to apply.
 
 
