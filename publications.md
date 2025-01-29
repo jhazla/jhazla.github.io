@@ -11,7 +11,7 @@ This is a list of the publications I coauthored, including arxiv links.
 <tbody>
 <tr id="ACHK24" class="entry">
         <td> Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła and Donald Kougang-Yombi (2024),
-	<i>"Learning High-Degree Parities: The Crucial Role of the Initialization".
+	<i>"Learning High-Degree Parities: The Crucial Role of the Initialization"</i>.
 	<br>[<a href="https://arxiv.org/abs/2412.04910" target="_blank">arxiv</a>]
 	</td>
 </tr>
