@@ -9,6 +9,12 @@ This is a list of the publications I coauthored, including arxiv links.
 
 <table id="qs_table" border="1">
 <tbody>
+<tr id="ACHK24" class="entry">
+        <td> Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła and Donald Kougang-Yombi (2024),
+	<i>"Learning High-Degree Parities: The Crucial Role of the Initialization".
+	<br>[<a href="https://arxiv.org/abs/2412.04910" target="_blank">arxiv</a>]
+	</td>
+</tr>
 <tr id="ABHH24" class="entry">
     	<td> Abdou Majeed Alidou, Júlia Baligács, Max Hahn-Klimroth, Jan Hązła, Lukas Hintze and Olga Scheftelowitsch (2024),
 	<i>"Inevitability of polarization in geometric opinion exchange"</i>.
@@ -18,12 +24,14 @@ This is a list of the publications I coauthored, including arxiv links.
 <tr id="KH24" class="entry">
     	<td> Donald Kougang-Yombi and Jan Hązła (2024),
 	<i>"A quantitative version of more capable channel comparison"</i>.
+	International Symposium on Information Theory (ISIT), pp. 3392-3397.
 	<br>[<a href="https://arxiv.org/abs/2401.14214" target="_blank">arxiv</a>]
 	</td>
 </tr>
 <tr id="DH23" class="entry">
-    	<td> Prudence Djagba and Jan Hązła (2023),
+    	<td> Prudence Djagba and Jan Hązła (2024),
 	<i>"Combinatorics of subgroups of Beidleman near-vector spaces"</i>.
+	Journal of Mathematical Sciences.
 	<br>[<a href="https://arxiv.org/abs/2306.16421" target="_blank">arxiv</a>]
 	</td>
 </tr>
