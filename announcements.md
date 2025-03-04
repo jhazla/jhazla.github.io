@@ -10,6 +10,11 @@ At the moment I am operating a small group in Kigali with some postdocs and PhD 
 
 Do not hesitate to contact me if you are interested in joint research and/or a visit in Kigali.  
 
+If you are a postdoc or experienced researcher who is German or works in Germany, you
+can apply for the
+[Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship) to stay and work with me in Kigali for 6 to 24 months. If you are interested, please contact
+me by email.
+
 <!-- ## Summer school August 2024
 
 From August 12 to August 23, 2024, we are organizing in Kigali the Summer Schoool A-PIC 24: **Probability, Information, Combinatorics** (in **Africa**). See the
