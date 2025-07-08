@@ -10,7 +10,12 @@ At the moment I am operating a small group in Kigali with some postdocs and PhD 
 
 Do not hesitate to contact me if you are interested in joint research and/or a visit in Kigali.  
 
-**Visiting positions**
+## Postdoc call
+I am looking for a postdoc. The application deadline is August 31, 2025. Please see the
+[announcement](files/postdoc_call_2025.pdf) for details.
+
+
+## Visiting positions for German researchers
 If you are a postdoc or an experienced researcher who is German or works in Germany, you
 can apply for the
 [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship) to stay and work with me in Kigali for 6 to 24 months. If you are interested, please contact
