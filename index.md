@@ -20,8 +20,9 @@ The topics are learning theory and financial mathematics. See
 to apply.
 
 ## Postdoc call
-I am looking for a postdoc. The application deadline is August 31, 2025. Please see the
+I am looking for an African postdoc. The application deadline is August 31, 2025. Please see the
 [announcement](files/postdoc_call_2025.pdf) for details.
+**This position is still not filled.**
 
 ## Visiting positions
 If you are a postdoc or an experienced researcher who is German or works in Germany, you

@@ -10,6 +10,8 @@ I am interested in various problems in **discrete mathematics and probability**
 including their applications in **social and economic sciences** and **computer science**.
 Below I describe a couple of directions I have been pursuing recently.
 
+[last updated in 2022]
+
 ## Coding theory
 
 Error-correcting codes are used to make data resistant to errors. **Reed-Muller codes**
