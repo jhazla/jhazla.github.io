@@ -9,9 +9,22 @@ This is a list of the publications I coauthored, including arxiv links.
 
 <table id="qs_table" border="1">
 <tbody>
+<tr id="ABH25" class="entry">
+        <td> Abdou Majeed Alidou, Júlia Baligács, and Jan Hązła (2025),
+	<i>"Geometric opinion exchange polarizes in every dimension"</i>.
+	<br>[<a href="https://arxiv.org/abs/2510.08190" target="_blank">arxiv</a>]
+	</td>
+</tr>
+<tr id="AHO25" class="entry">
+        <td> Olakunle Abawonse, Jan Hązła and Ryan O'Donnell (2025),
+	<i>"Generalized Samorodnitsky noisy function inequalities, with applications to error-correcting codes"</i>.
+	<br>[<a href="https://arxiv.org/abs/2508.06940" target="_blank">arxiv</a>]
+	</td>
+</tr>
 <tr id="ACHK24" class="entry">
-        <td> Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła and Donald Kougang-Yombi (2024),
+        <td> Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła and Donald Kougang-Yombi (2025),
 	<i>"Learning High-Degree Parities: The Crucial Role of the Initialization"</i>.
+	International Conference on Learning Representations (ICLR), pp. 19448--19494.
 	<br>[<a href="https://arxiv.org/abs/2412.04910" target="_blank">arxiv</a>]
 	</td>
 </tr>
